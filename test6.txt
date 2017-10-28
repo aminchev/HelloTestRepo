@@ -1,0 +1,14 @@
+ Volume in drive C is SYS
+ Volume Serial Number is 94CB-95A5
+
+ Directory of C:\Users\AMIN\Desktop\JavaProject1
+
+29.10.2017 £.  01:26    <DIR>          .
+29.10.2017 £.  01:26    <DIR>          ..
+28.10.2017 £.  23:39               674 Hello.class
+28.10.2017 £.  23:37               158 Hello.java
+28.10.2017 £.  23:59               507 index.html
+28.10.2017 £.  23:58               456 readme.txt
+29.10.2017 £.  01:26                 0 test6.txt
+               5 File(s)          1ÿ795 bytes
+               2 Dir(s)  112ÿ218ÿ615ÿ808 bytes free
